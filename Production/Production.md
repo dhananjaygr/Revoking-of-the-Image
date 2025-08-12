@@ -6,7 +6,7 @@ Prevent the Lab Guide image from opening in a new browser window when clicked.
 
 ### Implementation
 
-When a user clicks an image in the Lab Guide, the zoomed image should open on the **same page**, providing an enhanced view without launching a separate window.
+When a user clicks an image in the Lab Guide, the zoomed image should open on the same page, providing an enhanced view without launching a separate window.
 
 ### Inject Key for the Lab Guide URL
 
@@ -16,11 +16,11 @@ When a user clicks an image in the Lab Guide, the zoomed image should open on th
 
    ![](./Img/01.png)
 
-3. Once the user is deployed, go to any image in the Lab Guide and click on it. The image will zoom in, providing a clearer and larger view.
+3. Once the user is deployed, go to any image in the Lab Guide and click on it. The image will be zoomed in within the same window, providing a clearer and larger view.
 
    ![](./Img/02.png)
 
-4. At the bottom of the zoomed image, there is currently an option to open the image in a **new window**. This option will now be removed as part of the fix, ensuring the image remains within the same page.
+4. At the bottom of the zoomed image, there is an option to open the image in a new window. If needed, the user can click on it to view the image separately.
 
    ![](./Img/03.png)
 
