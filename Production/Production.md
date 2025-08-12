@@ -8,7 +8,7 @@ Prevent the Lab Guide image from opening in a new browser window when clicked.
 
 When a user clicks an image in the Lab Guide, the zoomed image should open on the same page, providing an enhanced view without launching a separate window.
 
-### Inject Key for the Lab Guide URL
+### Steps to Test Revoking the Lab Guide Image That Opens in a New Window
 
 1. Log in to the CL portal and navigate to the required tenant (WIZ). On the left-hand side of the page, you will see the ODL section.
 
