@@ -1,4 +1,4 @@
-## 45. Revoking the Lab Guide Image Page That Opens in a New Window – Bug Fix
+## 49. Revoking the Lab Guide Image Page That Opens in a New Window – Bug Fix
 
 ### Feature Requirement
 
